@@ -1,4 +1,4 @@
-# Componente JS
+# Desafio 1 - Componente JS 
 
 Criação de um componente Reactjs (JS) que recebe um JSON com nomes e notas como propriedade.
 
@@ -10,6 +10,8 @@ Criação de um componente Reactjs (JS) que recebe um JSON com nomes e notas com
 O nome é exibido pelo componente centralizado na vertical e na horizontal e em ordem alfabética, quando a nota for menor que 5, o nome aparece em vermelho, quando a nota é maior ou igual a 5, o nome aparece em verde.
 
 ## Orientações para execução:
+
+É necessário ter instalado na máquina o Node.JS e o NPM.
 
 No diretório do projeto, você pode executar `npm start`, no terminal.
 
